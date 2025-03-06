@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Planilha de Organização Semanal</title>
+    <style>
+        @media print {
+            @page {
+                size: A4;
+                margin: 1cm;
+            }
+            body {
+                margin: 0;
+                padding: 0;
+            }
+        }
+        
+        body {
+            font-family: Arial, sans-serif;
+            font-size: 9px;
+            line-height: 1.2;
+        }
+        
+        .page {
+            width: 210mm;
+            min-height: 297mm;
+            padding: 5mm;
+            box-sizing: border-box;
+        }
+        
+        h1 {
+            text-align: center;
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+        
+        .subtitle {
+            text-align: center;
+            font-size: 12px;
+            margin-bottom: 15px;
+        }
+        
+        .table-container {
+            overflow-x: auto;
+        }
+        
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-bottom: 15px;
+        }
+        
+        th, td {
+            border: 1px solid #000;
+            text-align: center;
+            height: 14px;
+        }
+        
+        th {
+            background-color: #f2f2f2;
+        }
+        
+        th.time-column {
+            width: 40px;
+        }
+        
+        th.day-column {
+            width: calc((100% - 40px) / 6);
+        }
+        
+        .legend {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            margin-bottom: 15px;
+        }
+        
+        .legend-item {
+            display: flex;
+            align-items: center;
+            margin: 5px 10px;
+        }
+        
+        .color-box {
+            width: 15px;
+            height: 15px;
+            margin-right: 5px;
+            border: 1px solid #000;
+        }
+        
+        .aulas { background-color: #FFCCCC; }
+        .transporte { background-color: #FFFF99; }
+        .sono { background-color: #99CCFF; }
+        .refeicoes { background-color: #CCFFCC; }
+        .atividade-fisica { background-color: #FF99CC; }
+        .estudo { background-color: #CC99FF; }
+        
+        .summary {
+            margin-top: 15px;
+            border: 1px solid #000;
+            padding: 10px;
+        }
+        
+        .summary h3 {
+            margin-top: 0;
+            font-size: 12px;
+            text-align: center;
+        }
+        
+        .summary-table {
+            width: 100%;
+            margin-top: 10px;
+        }
+        
+        .summary-table th, .summary-table td {
+            padding: 5px;
+        }
+        
+        .instructions {
+            margin-top: 15px;
+            font-size: 9px;
+            border: 1px dashed #999;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="page">
+        <h1>PLANILHA DE ORGANIZAÇÃO SEMANAL</h1>
+        <p class="subtitle">Use esta planilha para planejar seu tempo e garantir equilíbrio entre estudos e outras atividades</p>
+        
+        <div class="legend">
+            <div class="legend-item">
+                <div class="color-box aulas"></div>
+                <span>Aulas</span>
+            </div>
+            <div class="legend-item">
+                <div class="color-box transporte"></div>
+                <span>Transporte</span>
+            </div>
+            <div class="legend-item">
+                <div class="color-box sono"></div>
+                <span>Sono</span>
+            </div>
+            <div class="legend-item">
+                <div class="color-box refeicoes"></div>
+                <span>Refeições</span>
+            </div>
+            <div class="legend-item">
+                <div class="color-box atividade-fisica"></div>
+                <span>Atividade Física</span>
+            </div>
+            <div class="legend-item">
+                <div class="color-box estudo"></div>
+                <span>Estudo Extraclasse</span>
+            </div>
+        </div>
+        
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th class="time-column">Hora</th>
+                        <th class="day-column">Segunda</th>
+                        <th class="day-column">Terça</th>
+                        <th class="day-column">Quarta</th>
+                        <th class="day-column">Quinta</th>
+                        <th class="day-column">Sexta</th>
+                        <th class="day-column">Sábado</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Gerar linhas para cada meia hora de 7:00 às 22:00 -->
+                    <tr><td>07:00</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                    <tr><td>07:30</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                    <tr><td>08:00</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                    <tr><td>08:30</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                    <tr><td>09:00</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                    <tr><td>09:30</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                    <tr><td>10:00</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                    <tr><td>10:30</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                    <tr><td>11:00</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                    <tr><td>11:30</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                    <tr><td>12:00</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                    <tr><td>12:30</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                    <tr><td>13:00</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                    <tr><td>13:30</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                    <tr><td>14:00</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                    <tr><td>14:30</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                    <tr><td>15:00</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                    <tr><td>15:30</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                    <tr><td>16:00</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                    <tr><td>16:30</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                    <tr><td>17:00</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                    <tr><td>17:30</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                    <tr><td>18:00</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                    <tr><td>18:30</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                    <tr><td>19:00</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                    <tr><td>19:30</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                    <tr><td>20:00</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                    <tr><td>20:30</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                    <tr><td>21:00</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                    <tr><td>21:30</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                    <tr><td>22:00</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                </tbody>
+            </table>
+        </div>
+        
+        <div class="summary">
+            <h3>CÁLCULO SEMANAL DE HORAS</h3>
+            <table class="summary-table">
+                <tr>
+                    <th>Categoria</th>
+                    <th>Horas por semana</th>
+                    <th>Porcentagem</th>
+                </tr>
+                <tr>
+                    <td>Aulas</td>
+                    <td>______ horas</td>
+                    <td>______ %</td>
+                </tr>
+                <tr>
+                    <td>Transporte</td>
+                    <td>______ horas</td>
+                    <td>______ %</td>
+                </tr>
+                <tr>
+                    <td>Sono</td>
+                    <td>______ horas</td>
+                    <td>______ %</td>
+                </tr>
+                <tr>
+                    <td>Refeições</td>
+                    <td>______ horas</td>
+                    <td>______ %</td>
+                </tr>
+                <tr>
+                    <td>Atividade Física</td>
+                    <td>______ horas</td>
+                    <td>______ %</td>
+                </tr>
+                <tr>
+                    <td>Estudo Extraclasse</td>
+                    <td>______ horas</td>
+                    <td>______ %</td>
+                </tr>
+                <tr>
+                    <td>Tempo Livre</td>
+                    <td>______ horas</td>
+                    <td>______ %</td>
+                </tr>
+                <tr>
+                    <th>Total</th>
+                    <th>105 horas</th>
+                    <th>100%</th>
+                </tr>
+            </table>
+        </div>
+        
+        <div class="instructions">
+            <p><strong>INSTRUÇÕES:</strong></p>
+            <ol>
+                <li>Preencha primeiro os compromissos fixos: aulas, sono (recomendado 7-8h por noite), refeições e transporte.</li>
+                <li>Adicione suas atividades físicas e outros compromissos regulares.</li>
+                <li>Identifique os horários disponíveis para estudo extraclasse (recomendado: 2-3 horas de estudo para cada hora de aula).</li>
+                <li>Calcule o total de horas dedicadas a cada categoria na tabela resumo.</li>
+                <li>Se não houver tempo suficiente para estudo extraclasse, considere reduzir o número de disciplinas.</li>
+                <li>Lembre-se: seu bem-estar é importante! Reserve algum tempo livre para descanso e lazer.</li>
+            </ol>
+        </div>
+    </div>
+</body>
+</html>
