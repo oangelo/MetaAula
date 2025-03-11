@@ -1,4 +1,4 @@
-# [MetaAula](https://oangelo.github.io/MetaAula/)
+# MetaAula
 Recursos educacionais para promover metacognição, resiliência acadêmica e gerenciamento de trauma educacional. Framework para professores universitários ajudarem estudantes a desenvolver estratégias de aprendizado sustentáveis em um contexto meta-pós-moderno.
 
 ## Sobre este Projeto
@@ -15,7 +15,7 @@ Este repositório contém materiais para uma aula introdutória universitária q
 
 ## Conteúdo do Repositório
 
-### Apresentação Principal
+### [Apresentação Principal](https://oangelo.github.io/MetaAula/)
 
 - `index.html` - Arquivo principal da apresentação em reveal.js
 - `/dist` - Arquivos do framework reveal.js
@@ -26,7 +26,7 @@ Este repositório contém materiais para uma aula introdutória universitária q
 
 - `planilha-tempo-semanal.html` - Ferramenta de planejamento semanal para estudantes (formato A4)
 - `/recursos` - Recursos adicionais e referências
-
+- [`texto.html`](https://oangelo.github.io/MetaAula/texto.html) - Apresentação em html
 ## Como Utilizar
 
 ### Requisitos
