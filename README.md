@@ -26,7 +26,7 @@ Este repositório contém materiais para uma aula introdutória universitária q
 
 - `planilha-tempo-semanal.html` - Ferramenta de planejamento semanal para estudantes (formato A4)
 - `/recursos` - Recursos adicionais e referências
-- [`texto.html`](https://oangelo.github.io/MetaAula/texto.html) - Apresentação em html
+- [`texto.html`](https://oangelo.github.io/MetaAula/texto.html) - Apresentação em texto 
 ## Como Utilizar
 
 ### Requisitos
