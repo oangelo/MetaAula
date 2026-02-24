@@ -415,7 +415,9 @@ A universidade não trata apenas de aprender conteúdo — trata de aprender *a 
 
 ---
 
-## 6. Ferramentas para Mudar
+## 6. Da Teoria à Prática
+
+Entendemos o sistema, seus riscos e suas origens. Entendemos o corpo, a mente, o sono e a atenção. Agora a pergunta é concreta: **o que você pode fazer?**
 
 ### 6.1 Reescrevendo Sua História Acadêmica
 
@@ -427,7 +429,7 @@ Muitas das nossas limitações acadêmicas são narrativas, não fatos. O proces
 | "Sou péssimo em provas, sempre travo" | "Estou desenvolvendo novas estratégias para situações de avaliação" |
 | "Meu cérebro não funciona para teorias abstratas" | "Aprendo melhor quando conecto teorias abstratas a exemplos concretos" |
 
-Um fato raramente mencionado: muitos professores universitários já passaram por dificuldades semelhantes às suas. Na UERJ, 1.371 alunos-mestres monitores atuam como suporte — eles se tornaram especialistas justamente no que um dia acharam difícil.
+A linguagem que você usa sobre si mesmo moldou você — e pode remoldá-lo.
 
 ---
 
@@ -465,109 +467,79 @@ Nossa cultura perpetua um equívoco fundamental: esperar motivação para agir. 
 
 ---
 
-### 6.4 Hábitos e Identidade
+### 6.4 Hábitos
 
-A ciência dos hábitos mostra que ~40% de nossas ações diárias são hábitos, não decisões conscientes. Um hábito leva em média **66 dias** para se formar (não 21, como o mito popular sugere). Tentativas de autorregulação exclusivamente por força de vontade esgotam recursos mentais limitados.
+~40% das ações diárias são hábitos, não decisões conscientes. Um hábito leva em média **66 dias** para se formar — não 21 como o mito diz. Força de vontade é esgotável; hábitos automatizam o comportamento.
 
-**Identidade baseada em desejos vs. hábitos:**
-
-| Desejos (ineficaz) | Hábitos (eficaz) |
-|--------------------|------------------|
-| "Quero ser um bom aluno" | "Estudo 30 minutos todas as manhãs" |
-| "Deveria estudar mais" | "Nunca falto às monitorias de quinta" |
-| "Meu objetivo é me formar com honras" | "Reviso minhas anotações todo fim de dia" |
-| "Um dia vou criar uma rotina" | "Sou o tipo de pessoa que não deixa acumular matéria" |
-
-**Mini-hábitos — a porta de entrada:**
-
-Comece ridiculamente pequeno para vencer a resistência inicial. Em vez de "estudar por 2 horas", comprometa-se a "ler apenas 1 página". O momentum frequentemente leva além da meta mínima.
-
-**Engenharia de hábitos — fórmula prática:**
-
-1. **Gatilho claro**: "Depois do café da manhã, vou abrir meu caderno"
-2. **Ambiente preparado**: mesa organizada, materiais à vista, distrações eliminadas
-3. **Barreira mínima**: comece com 5 minutos — tão fácil que não há desculpa
-4. **Recompensa imediata**: algo pequeno mas satisfatório após completar
-5. **Rastreamento visível**: marque no calendário, veja a sequência crescer
+**Fórmula prática:**
+1. **Gatilho claro**: "Depois do café da manhã, abro o caderno"
+2. **Barreira mínima**: comece com 5 minutos
+3. **Recompensa imediata**: algo pequeno e satisfatório após completar
+4. **Rastreamento visível**: marque no calendário, veja a sequência crescer
 
 ---
 
-## 7. Você, Seu Ambiente e Seu Grupo
+### 6.5 Você É o Protagonista
 
-**Seu ambiente importa.** O cérebro é como uma planta — precisa do ambiente certo para prosperar. Encontre seu "habitat natural" de estudo, seja a biblioteca ou o café mais barulhento da cidade.
-
-**A corrida acadêmica não é uma maratona para todos.** Seu colega faz 8 matérias por semestre? Ótimo para ele. Você faz 4? Ótimo para você. Conhecer seus limites não é fraqueza — ultrapassá-los sem critério te faz um desistente, não um herói.
-
-**Somos uma colmeia acadêmica.**
-
-> "É impressionante como a cultura molda sua identidade, crenças e normas, mas você a vivencia como livre arbítrio e de forma única." — Bryan Johnson
-
-Seus interesses e motivações são influenciados pelas pessoas ao seu redor. Escolha bem seu grupo de estudo — eles podem te levar ao topo ou ao bar.
+O enredo é seu. Encontre seu "porquê" — pode ser mudar o mundo, sustentar sua família ou comprar um carro. O "porquê" não precisa ser nobre — precisa ser autêntico.
 
 ---
 
-## 8. Estratégias Práticas de Perseverança
+### 6.6 Ambiente e Grupo
 
-### A curva da persistência
+**Ambiente:** Encontre seu habitat de estudo. Associe o espaço ao comportamento — o mesmo lugar treina o cérebro a entrar no modo estudo. Elimine gatilhos de distração antes de começar.
 
-Um dos equívocos mais prejudiciais é esperar que o aprendizado seja linear. A realidade é uma curva acidentada, com altos e baixos, platôs e saltos inesperados. A maioria das desistências ocorre após resultados negativos iniciais — uma primeira prova com nota baixa frequentemente desencadeia o abandono.
+**Grupo:** "É impressionante como a cultura molda sua identidade, mas você a vivencia como livre-arbítrio." — Bryan Johnson. Grupos que normalizam esforço elevam o teto de todos.
 
-O princípio "quem não está adiantado está atrasado" aponta para uma verdade incômoda: estudar na véspera significa competir com seu eu do passado que não te ajudou. Você está simultaneamente tentando aprender e lutando contra a ansiedade do prazo.
+**Ritmo próprio:** Conhecer seus limites não é fraqueza — ultrapassá-los sistematicamente te faz candidato ao abandono.
 
-### Duas trajetórias após uma avaliação negativa
+---
+
+### 6.7 Persistência
+
+O aprendizado não é linear. A maioria das desistências ocorre após a **primeira** avaliação negativa — antes de qualquer chance de recuperação.
 
 | Abandono Precoce | Recuperação Resiliente |
 |------------------|------------------------|
-| 1. Primeira avaliação negativa | 1. Primeira avaliação negativa |
-| 2. Confirmação do medo ("Eu sabia que não era para mim") | 2. Diagnóstico de lacunas específicas |
-| 3. Evitação das aulas | 3. Busca ativa por recursos (monitoria, grupos) |
-| 4. Desistência oficial ou abandono silencioso | 4. Ajuste de estratégias de estudo |
-| 5. Reforço do trauma para o futuro | 5. Recuperação gradual e superação |
+| "Eu sabia que não era para mim" | Diagnóstico de lacunas específicas |
+| Evitação das aulas | Busca ativa por monitoria e grupos |
+| Desistência — reforço do trauma | Ajuste de estratégias → superação |
 
-### Estratégias concretas
-
-1. **Análise pós-avaliação**: transforme notas ruins em informação útil sobre suas lacunas
+**Quatro estratégias concretas:**
+1. **Análise pós-avaliação**: transforme notas ruins em informação útil
 2. **Micrometas**: divida o desafio em passos gerenciáveis
-3. **Grupo de resiliência**: forme uma aliança com colegas para persistir juntos
-4. **Pacto de não-desistência**: comprometa-se a não abandonar sem antes conversar com alguém
-
-### Recursos institucionais (UERJ · IPRJ)
-
-- **Programa de monitoria**: apoio acadêmico por alunos-mestres
-- **Departamento de Acolhida, Saúde Psicossocial e Bem-Estar**: daspb@uerj.br
-- **Coordenadoria de Serviço Social e Assistência Estudantil**: servicosocial.daiaie@uerj.br
-- **Coordenações de curso** (orientação para planejamento acadêmico):
-  - coord-comp@iprj.uerj.br
-  - coord-mec@iprj.uerj.br
-
-> Perseverança não significa sofrer sozinho.
+3. **Grupo de resiliência**: persistir juntos, não competir
+4. **Pacto de não-desistência**: não abandonar sem antes conversar com alguém
 
 ---
 
-## 9. Consolidação e Compromisso
+## 7. Fechamento
 
-### Exercício de visualização
+### Resumo das Ideias Centrais
 
-Imagine: você acabou de receber uma nota baixa na primeira prova.
-- Quais seriam seus pensamentos imediatos?
-- Que ações tomaria nas próximas 48 horas?
-- Quem procuraria para conversar?
+1. **O sistema foi construído assim** — escola como fábrica, disciplinas como filtros. Entender isso reduz a autocrítica e aumenta a estratégia.
+2. **Tecnologia é uma faca de dois gumes** — amplifica quem entende, engana quem não sabe checar. Proteja sua atenção.
+3. **Trauma acadêmico é epidemiológico, não individual** — 1 em cada 3 calouros chega com transtorno diagnosticável. Buscar ajuda é estratégia.
+4. **Tempo, sono, corpo e metacognição** — os quatro recursos que nenhuma disciplina ensina, mas que determinam quem sobrevive ao currículo.
+5. **Persistência é habilidade treinável** — hábitos, narrativas, ambiente e grupo são variáveis que você pode ajustar.
 
-Esta não é uma situação hipotética — é quase inevitável em algum momento da jornada acadêmica. Ter respostas pré-definidas evita decisões impulsivas em momentos de frustração.
+### Atividades Práticas
 
-### Plano de contingência pessoal
+**Auditoria de tempo:** Quantas horas suas disciplinas realmente exigem (presencial + estudo extraclasse)? Quanto tempo você tem disponível? Seu plano é realista?
 
-Complete as frases:
+**Visualização:** Imagine receber uma nota baixa na primeira prova. Quais seriam seus pensamentos imediatos? Que ações tomaria nas próximas 48 horas? Quem procuraria?
+
+**Plano de contingência pessoal:**
 - "Se eu tirar uma nota abaixo da média, eu vou __________"
-- "Se eu sentir que não estou entendendo a matéria, eu vou __________"
+- "Se eu sentir que não estou entendendo, eu vou __________"
 - "Se eu começar a pensar em desistir, eu prometo primeiro __________"
 
-### Ticket de saída
+### Ticket de Saída
 
 Antes de sair:
 1. Uma ideia que você está levando desta aula
 2. Uma pergunta que surgiu durante a apresentação
-3. Uma estratégia que você pretende implementar
+3. Uma estratégia concreta que você implementará esta semana
 
 ---
 
