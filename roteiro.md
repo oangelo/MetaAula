@@ -284,7 +284,7 @@ A boa notícia: **trauma acadêmico tem tratamento baseado em evidências**. Nã
 
 ---
 
-## 5. Os Três Recursos Fundamentais
+## 5. Os Quatro Recursos Fundamentais
 
 ### 5.1 Tempo: O Recurso Não-Renovável
 
@@ -353,7 +353,42 @@ A privação de sono não apenas prejudica o aprendizado — prejudica sua capac
 
 ---
 
-### 5.3 Metacognição: O Superpoder Acadêmico
+### 5.3 Corpo: A Mente Não Existe Separada
+
+Existe um mito filosófico que herdamos de Descartes: a separação radical entre mente e corpo. "Penso, logo existo" sugere que o que importa é a atividade mental — o corpo seria apenas o veículo. Esse dualismo contaminou a academia, que trata o estudante como um cérebro com pernas. Resultado: glorifica-se a exaustão intelectual e ignora-se que o cérebro é um órgão físico, sujeito às mesmas leis biológicas que o coração ou o fígado.
+
+A neurociência desfez esse mito com dados claros.
+
+**O mecanismo: BDNF e neuroplasticidade**
+
+Exercício físico eleva os níveis de BDNF (fator neurotrófico derivado do cérebro) — uma proteína que estimula a neurogênese no hipocampo, região central na formação de memórias e aprendizado. Não é metáfora. É bioquímica: mover o corpo produz, literalmente, o fertilizante do cérebro.
+
+**O estudo de Naperville**
+
+John Ratey, psiquiatra da Harvard Medical School, documentou o caso da escola de Naperville, Illinois, que implementou 30 minutos de exercício cardiovascular *antes* das aulas. Resultado: a escola ficou em 1º lugar no mundo em ciências e 6º em matemática no TIMSS (estudo comparativo internacional). A taxa de obesidade caiu de 33% para 3%.
+
+**O exercício é um dos melhores antidepressivos que existem**
+
+Meta-análise publicada na *Frontiers in Psychology* (2025), com dezenas de estudos controlados sobre universitários:
+- Depressão: redução de SMD = −0,89 a −0,97 (efeito grande)
+- Ansiedade: SMD = −0,62 a −0,66 (efeito moderado a grande)
+- Estresse: redução significativa (SMD = −0,46)
+
+Para comparação: esses números são comparáveis aos de antidepressivos em populações leves a moderadas — sem efeitos colaterais.
+
+**O timing importa**
+
+Estudo publicado na *Current Biology* (2016) encontrou que exercício 4 horas *após* o estudo melhora a consolidação da memória no hipocampo. Exercício antes do estudo também ajuda, preparando o cérebro para aprender. O único horário problemático: durante o processo de aprendizado, quando o esforço físico compete pelos mesmos recursos cognitivos.
+
+**Desmistificando o "sarado é burro"**
+
+Esse estereótipo tem uma origem documentada: pesquisas sobre *stereotype threat* (ameaça do estereótipo) mostraram que atletas universitários que foram *lembrados de ser atletas* antes de um teste cognitivo tiveram desempenho 12% pior do que os que não foram lembrados. O estereótipo, quando ativado, cria ansiedade que prejudica o desempenho — gerando uma profecia autorrealizável.
+
+Atletas bem-sucedidos não são burros. Eles frequentemente dominam disciplina, planejamento de longo prazo, tolerância à dor do processo e recuperação de falhas — exatamente as habilidades que fazem um bom estudante.
+
+---
+
+### 5.4 Metacognição: O Superpoder Acadêmico
 
 Metacognição — pensar sobre o próprio pensamento — é a capacidade de refletir e controlar os próprios processos cognitivos: saber como aprendemos, monitorar nosso progresso e ajustar nossas estratégias.
 
@@ -370,6 +405,13 @@ O momento em que seu desempenho aparentemente *cai* pode ser justamente quando v
 A universidade não trata apenas de aprender conteúdo — trata de aprender *a aprender*. Metacognição funciona como um superpoder: monitoramento contínuo, avaliação honesta e ajuste constante das estratégias.
 
 > *Exercício de autorreflexão (3 minutos):* Qual foi meu maior desafio acadêmico até hoje e como o superei? Em qual ambiente consigo me concentrar melhor e por quê? Que estratégia de estudo já tentei e **não** funcionou para mim?
+
+**Referências adicionadas nesta seção (corpo e exercício):**
+- Ratey, J.J. & Hagerman, E. (2008). *Spark: The Revolutionary New Science of Exercise and the Brain.* Little, Brown.
+- Liu, P.Z. & Nusslock, R. (2018). *Exercise-mediated neurogenesis in the hippocampus via BDNF.* Frontiers in Neuroscience, 12, 52.
+- van Dongen, E.V. et al. (2016). *Physical exercise performed four hours after learning improves memory retention.* Current Biology, 26(13), 1722–1727.
+- Xiong, J. et al. (2025). *Effectiveness of physical exercise on mental health among university students.* Frontiers in Psychology. DOI: 10.3389/fpsyg.2025.1612408
+- Hively, K. & El-Alayli, A. (2014). *Stereotype threat and the student-athlete.* Economic Inquiry, 52(1), 173–182.
 
 ---
 
