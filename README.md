@@ -25,7 +25,7 @@ Este repositório contém materiais para uma aula introdutória universitária q
 ### Materiais Complementares
 
 - `planilha-tempo-semanal.html` - Ferramenta de planejamento semanal para estudantes (formato A4)
-- `/recursos` - Recursos adicionais e referências
+- `/recursos` - Referências bibliográficas e ferramentas de estudo complementares
 - [`texto.html`](https://oangelo.github.io/MetaAula/texto.html) - Apresentação em texto 
 ## Como Utilizar
 
@@ -37,6 +37,11 @@ Este repositório contém materiais para uma aula introdutória universitária q
 ### Visualizando a Apresentação
 
 1. Clone o repositório:
+
+```bash
+git clone https://github.com/oangelo/MetaAula.git
+cd MetaAula
+```
 
 2. Abra o arquivo `index.html` em qualquer navegador moderno.
 
