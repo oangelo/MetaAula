@@ -11,13 +11,24 @@
     <link rel="stylesheet" href="plugin/highlight/monokai.css" />
 
     <style>
-      .small  { font-size: 0.7em; }
-      .large  { font-size: 1.2em; }
-      .author { font-style: italic; font-size: 0.8em; margin-top: 2em; }
+      .small   { font-size: 0.7em; }
+      .large   { font-size: 1.2em; }
+      .author  { font-style: italic; font-size: 0.8em; margin-top: 2em; }
 
       .reveal table th { font-size: 0.7em; }
       .reveal table td { font-size: 0.6em; }
       .reveal ul li    { font-size: 0.8em; }
+
+      /* Slides com muito conteúdo: reduz tudo proporcionalmente */
+      .reveal .compact { font-size: 0.72em; }
+      .reveal .compact h2 { font-size: 1.4em; }
+      .reveal .compact h3 { font-size: 1.2em; }
+      .reveal .compact h4 { font-size: 1em; }
+      .reveal .compact ul li, .reveal .compact ol li { font-size: 1em; }
+      .reveal .compact table th { font-size: 0.85em; }
+      .reveal .compact table td { font-size: 0.75em; }
+      .reveal .compact p { margin: 0.3em 0; }
+      .reveal .compact blockquote { margin: 0.4em 0; padding: 0.4em 0.8em; }
     </style>
   </head>
   <body>
@@ -60,6 +71,11 @@
 
         Reveal.initialize({
           hash: true,
+          width: 1280,
+          height: 800,
+          margin: 0.04,
+          minScale: 0.2,
+          maxScale: 2.0,
           plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
         });
       }
