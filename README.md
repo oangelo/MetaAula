@@ -17,7 +17,17 @@ Este repositório contém materiais para uma aula introdutória universitária q
 
 ### [Apresentação Principal](https://oangelo.github.io/MetaAula/)
 
-- `index.html` - Arquivo principal da apresentação em reveal.js
+- `index.html` - Arquivo principal (carrega as seções dinamicamente via fetch)
+- `/sections` - Cada seção da apresentação em seu próprio arquivo HTML:
+  - `01-abertura.html` — Bem-vindos à Aula Perfeita™
+  - `02-filosofia.html` — Evolução do Pensamento Educacional
+  - `03-tecnologia-ia.html` — Dimensão Tecnológica: IA na Educação
+  - `04-trauma-academico.html` — O Trauma Acadêmico
+  - `05-recursos-fundamentais.html` — Tempo, Sono e Metacognição
+  - `06-ferramentas-mudanca.html` — Ferramentas para Mudar
+  - `07-ambiente-grupo.html` — Você, Seu Ambiente e Seu Grupo
+  - `08-perseveranca.html` — Estratégias Práticas de Perseverança
+  - `09-consolidacao.html` — Consolidação e Compromisso
 - `/dist` - Arquivos do framework reveal.js
 - `/plugin` - Plugins do reveal.js
 - `/img` - Imagens utilizadas na apresentação
@@ -26,7 +36,7 @@ Este repositório contém materiais para uma aula introdutória universitária q
 
 - `planilha-tempo-semanal.html` - Ferramenta de planejamento semanal para estudantes (formato A4)
 - `/recursos` - Referências bibliográficas e ferramentas de estudo complementares
-- [`texto.html`](https://oangelo.github.io/MetaAula/texto.html) - Apresentação em texto 
+- [`roteiro.md`](roteiro.md) - Roteiro narrativo completo da apresentação (guia de conteúdo)
 ## Como Utilizar
 
 ### Requisitos
@@ -43,9 +53,21 @@ git clone https://github.com/oangelo/MetaAula.git
 cd MetaAula
 ```
 
-2. Abra o arquivo `index.html` em qualquer navegador moderno.
+2. Inicie um servidor HTTP local (necessário porque as seções são carregadas via fetch):
 
-3. Use as setas do teclado para navegar entre os slides.
+```bash
+# Python 3
+python -m http.server 8000
+
+# Node.js
+npx serve .
+```
+
+3. Acesse `http://localhost:8000` no navegador.
+
+4. Use as setas do teclado para navegar entre os slides.
+
+> **Nota:** A apresentação também está disponível online via GitHub Pages em [oangelo.github.io/MetaAula](https://oangelo.github.io/MetaAula/), sem necessidade de servidor local.
 
 ### Adaptando para Seu Contexto
 
