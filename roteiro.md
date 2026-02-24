@@ -65,12 +65,51 @@ O engenheiro, o cientista, o profissional do futuro precisará de mais do que co
 
 ---
 
+### 2.3 A Robotização do Homem — e Por Que Vale a Pena Mesmo Assim
+
+Chegamos a um momento curioso da história: a automação está avançando, mas ainda não consegue substituir tudo. E enquanto não consegue, o mercado encontrou uma solução: **colocar humanos para trabalhar como robôs**.
+
+Galpões de logística com trabalhadores que percorrem dezenas de quilômetros por dia sob monitoramento em tempo real. Atendentes de telemarketing lendo scripts que não podem improvisar. Motoristas de aplicativo gerenciados por algoritmos que determinam rotas, preços e punições. Moderadores de conteúdo que analisam imagens perturbadoras em série, sem pausa, com cota diária.
+
+O economista Guy Standing chamou esse fenômeno de **precarização**: uma nova classe global de trabalhadores — o *precariado* — que não tem estabilidade, autonomia, identidade profissional nem perspectiva de progressão. Trabalham muito, ganham pouco, e não têm voz sobre como trabalham.
+
+**Quem corre mais risco?**
+
+O estudo de Carl Benedikt Frey e Michael Osborne, publicado pela Universidade de Oxford em 2013, analisou 702 ocupações e concluiu que **47% dos empregos nos países desenvolvidos têm alto risco de automação**. O padrão é claro: quanto mais repetitiva, rotineira e com menos necessidade de julgamento humano for a tarefa, maior o risco. E esses são exatamente os empregos que não exigem formação superior.
+
+No Brasil, os dados do IPEA com base na PNAD mostram que **trabalhadores com ensino superior ganham em média quatro vezes mais do que trabalhadores com apenas o ensino médio** — e têm taxas de desemprego significativamente menores, mesmo em períodos de crise.
+
+**Isso não é propaganda universitária. É uma observação estrutural.**
+
+A formação superior, na maioria dos casos, desloca o trabalhador para funções que:
+- Exigem julgamento, criatividade e adaptação — difíceis de automatizar
+- Têm maior autonomia sobre como e quando o trabalho é feito
+- Oferecem mais reconhecimento, progressão e sentido
+- Pagam melhor e têm maior estabilidade
+
+Nenhum diploma garante isso. E sim, há engenheiros fazendo trabalho mecânico e trabalhadores sem formação construindo carreiras ricas. Mas as probabilidades mudam — e muito.
+
+**A conclusão honesta de toda esta seção:**
+
+Criticamos a escola como instituição industrial. Mostramos que ela foi construída para produzir corpos dóceis, não mentes livres. Isso é verdade, e é importante saber.
+
+Mas a alternativa — não passar por ela — não te liberta do capitalismo industrial. Ela te entrega ao andar de baixo dele: o trabalho mais repetitivo, mais vigiado, mais facilmente substituível, seja por outro humano ou por uma máquina.
+
+Navegar pelo sistema com consciência crítica — usando suas ferramentas sem ser iludido por elas — é a aposta mais inteligente disponível para a maioria das pessoas.
+
+> Vale a pena. Mas não por ingenuidade — por estratégia.
+
+---
+
 **Referências desta seção:**
 - Thompson, E.P. (1967). *Time, Work-Discipline, and Industrial Capitalism*. Past & Present, 38, pp. 56–97.
 - Foucault, M. (1975). *Vigiar e Punir*. (Ed. bras.: Vozes, 1987)
 - Callahan, R.E. (1962). *Education and the Cult of Efficiency*. University of Chicago Press.
 - Freire, P. (1968). *Pedagogia do Oprimido*. (Ed. bras.: Paz e Terra, 1974)
 - Illich, I. (1971). *Deschooling Society*. (Ed. bras.: *Sociedade sem Escolas*. Vozes, 1973)
+- Standing, G. (2011). *The Precariat: The New Dangerous Class*. Bloomsbury Academic.
+- Frey, C.B. & Osborne, M.A. (2013). *The Future of Employment: How Susceptible Are Jobs to Computerisation?* Oxford Martin School.
+- IPEA/PNAD: diferencial de rendimentos por escolaridade no Brasil (dados atualizados em https://www.ipea.gov.br)
 
 ---
 
