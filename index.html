@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>MetaAula — Como Estudar na Universidade</title>
+
+    <link rel="stylesheet" href="dist/reset.css" />
+    <link rel="stylesheet" href="dist/reveal.css" />
+    <link rel="stylesheet" href="dist/theme/black.css" />
+    <link rel="stylesheet" href="plugin/highlight/monokai.css" />
+
+    <style>
+      .small   { font-size: 0.7em; }
+      .large   { font-size: 1.2em; }
+      .author  { font-style: italic; font-size: 0.8em; margin-top: 2em; }
+
+      .reveal table th { font-size: 0.7em; }
+      .reveal table td { font-size: 0.6em; }
+      .reveal ul li    { font-size: 0.8em; }
+
+      /* Slides com muito conteúdo: reduz tudo proporcionalmente */
+      .reveal .compact { font-size: 0.72em; }
+      .reveal .compact h2 { font-size: 1.4em; }
+      .reveal .compact h3 { font-size: 1.2em; }
+      .reveal .compact h4 { font-size: 1em; }
+      .reveal .compact ul li, .reveal .compact ol li { font-size: 1em; }
+      .reveal .compact table th { font-size: 0.85em; }
+      .reveal .compact table td { font-size: 0.75em; }
+      .reveal .compact p { margin: 0.3em 0; }
+      .reveal .compact blockquote { margin: 0.4em 0; padding: 0.4em 0.8em; }
+    </style>
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides" id="slides-container">
+        <!-- seções carregadas dinamicamente por loadPresentation() -->
+      </div>
+    </div>
+
+    <script src="dist/reveal.js"></script>
+    <script src="plugin/notes/notes.js"></script>
+    <script src="plugin/markdown/markdown.js"></script>
+    <script src="plugin/highlight/highlight.js"></script>
+
+    <script>
+      const SECTIONS = [
+        'sections/01-abertura.html',
+        'sections/02-filosofia.html',
+        'sections/03-tecnologia-ia.html',
+        'sections/04-trauma-academico.html',
+        'sections/05-recursos-fundamentais.html',
+        'sections/06-ferramentas-mudanca.html',
+        'sections/07-fechamento.html',
+      ];
+
+      async function loadPresentation() {
+        const container = document.getElementById('slides-container');
+
+        for (const src of SECTIONS) {
+          const response = await fetch(src);
+          if (!response.ok) {
+            console.error(`Erro ao carregar ${src}: ${response.status}`);
+            continue;
+          }
+          const html = await response.text();
+          container.insertAdjacentHTML('beforeend', html);
+        }
+
+        Reveal.initialize({
+          hash: true,
+          width: 1280,
+          height: 800,
+          margin: 0.04,
+          minScale: 0.2,
+          maxScale: 2.0,
+          plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
+        });
+      }
+
+      loadPresentation();
+    </script>
+  </body>
+</html>
